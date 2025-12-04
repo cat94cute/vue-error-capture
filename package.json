@@ -1,7 +1,7 @@
 {
   "name": "vue-error-capture",
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
   "description": "前端 Vue 3 錯誤捕捉工具，支援全域 console、Vue、XHR、fetch 等錯誤攔截",
   "author": "Whiskas",
@@ -11,6 +11,16 @@
     "type": "git",
     "url": "https://github.com/cat94cute/vue-error-capture"
   },
+  "keywords": [
+    "vue",
+    "vue3",
+    "error",
+    "error-capture",
+    "frontend",
+    "bug-reporting",
+    "javascript",
+    "typescript"
+  ],
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
